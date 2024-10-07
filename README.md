@@ -16,7 +16,7 @@ Step-2.Data Preparation
 5.Parameter Update Rule 
 6.Iterative Training 
 7.Model Evaluation
- 8.End
+8.End
 ```
 ## Program:
 ```
